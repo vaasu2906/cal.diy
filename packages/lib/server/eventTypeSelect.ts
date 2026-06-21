@@ -34,6 +34,7 @@ export const eventTypeSelect = {
   periodDays: true,
   periodCountCalendarDays: true,
   lockTimeZoneToggleOnBookingPage: true,
+  lockTimeZoneToggleOnEmails: true,
   lockedTimeZone: true,
   requiresBookerEmailVerification: true,
   disableGuests: true,
